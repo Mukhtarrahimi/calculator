@@ -1,0 +1,47 @@
+.container {
+    width: 300px;
+    padding: 20px;
+    background: #dfe3f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+  }
+  .screen {
+    margin: 0 auto 5px auto;
+    width: 96%;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: right;
+    background: #025480;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  button {
+    margin: 5px;
+    width: 55px;
+    height: 55px;
+    border: none;
+    outline: none;
+    color: white;
+    background: #262834;
+    cursor: pointer;
+    font-size: 25px;
+    border: 1px solid rgb(92, 92, 92);
+    border-radius: 10px;
+  }
+  
+  .color {
+    background: #56cbdb;
+    color: #262834;
+  }
+  
+  .towcol {
+    width: 120px;
+  }
+  
